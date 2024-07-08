@@ -1,6 +1,6 @@
 # first_application
 
-first application
+first application - Flutter 
 
 ## Getting Started
 
